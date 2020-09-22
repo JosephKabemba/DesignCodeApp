@@ -51,7 +51,7 @@ const Wrapper = styled.View`
 
 const Container = styled.View`
   background: white;
-  width: 280px; /* Mettre 315px*/
+  width: 240px; /* Mettre 315px*/
   height: 280px;
   border-radius: 14px;
   margin-left: 20px;
