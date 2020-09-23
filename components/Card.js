@@ -52,7 +52,7 @@ const Wrapper = styled.View`
 const Container = styled.View`
   background: white;
   width: 240px; /* Mettre 315px*/
-  height: 280px;
+  height: 240px;
   border-radius: 14px;
   margin-left: 20px;
   margin-top: 20px;
@@ -61,7 +61,7 @@ const Container = styled.View`
 
 const Cover = styled.View`
   width: 100%;
-  height: 200px;
+  height: 150px;
   border-top-left-radius: 14px;
   border-top-right-radius: 14px;
   overflow: hidden;
